@@ -1,0 +1,5 @@
+C:\AutomationSession\AutomationSolution\Evaluuation\obj\Debug\net8.0\Evaluuation.csproj.AssemblyReference.cache
+C:\AutomationSession\AutomationSolution\Evaluuation\obj\Debug\net8.0\Evaluuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\AutomationSession\AutomationSolution\Evaluuation\obj\Debug\net8.0\Evaluuation.AssemblyInfoInputs.cache
+C:\AutomationSession\AutomationSolution\Evaluuation\obj\Debug\net8.0\Evaluuation.AssemblyInfo.cs
+C:\AutomationSession\AutomationSolution\Evaluuation\obj\Debug\net8.0\Evaluuation.csproj.CoreCompileInputs.cache
